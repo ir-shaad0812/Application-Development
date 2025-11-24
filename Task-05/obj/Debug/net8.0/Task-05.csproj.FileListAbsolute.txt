@@ -1,0 +1,14 @@
+D:\DotNet\Week-05\Task-05\obj\Debug\net8.0\Task-05.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Week-05\Task-05\obj\Debug\net8.0\Task-05.AssemblyInfoInputs.cache
+D:\DotNet\Week-05\Task-05\obj\Debug\net8.0\Task-05.AssemblyInfo.cs
+D:\DotNet\Week-05\Task-05\obj\Debug\net8.0\Task-05.csproj.CoreCompileInputs.cache
+D:\DotNet\Week-05\Task-05\bin\Debug\net8.0\Task-05.exe
+D:\DotNet\Week-05\Task-05\bin\Debug\net8.0\Task-05.deps.json
+D:\DotNet\Week-05\Task-05\bin\Debug\net8.0\Task-05.runtimeconfig.json
+D:\DotNet\Week-05\Task-05\bin\Debug\net8.0\Task-05.dll
+D:\DotNet\Week-05\Task-05\bin\Debug\net8.0\Task-05.pdb
+D:\DotNet\Week-05\Task-05\obj\Debug\net8.0\Task-05.dll
+D:\DotNet\Week-05\Task-05\obj\Debug\net8.0\refint\Task-05.dll
+D:\DotNet\Week-05\Task-05\obj\Debug\net8.0\Task-05.pdb
+D:\DotNet\Week-05\Task-05\obj\Debug\net8.0\Task-05.genruntimeconfig.cache
+D:\DotNet\Week-05\Task-05\obj\Debug\net8.0\ref\Task-05.dll
